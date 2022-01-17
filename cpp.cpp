@@ -20,6 +20,7 @@ void functionWritting(int a,int b)
 //Driver Function
 int main()
 {
+	cout<<"Welcome Shubham Kumar"<<endl;
 	int a,b;
 	cout<<"Enter the vale of a"<<endl;
 	cin>>a;
